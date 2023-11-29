@@ -18,9 +18,13 @@ Here are some ideas to get you started:
 ## Talks 💬
 
 - 12.12.2019 CNCF Turku - [RBAC, NetworkPolicies and PodSecurityPolicies](https://www.youtube.com/live/VoQU2uvHY8w?si=8lpH3IfgCrHprSdV&t=7510)
+  - [Slides](https://speakerdeck.com/lentzi90/rbac-networkpolicies-and-podsecuritypolicies)
+  - [Demo material](https://github.com/lentzi90/kubernetes-training-material)
 - 10.05.2022 CNCF Helsinki - [What's new in Metal3?](https://www.youtube.com/live/LTzIudvLs9A?si=NR3QwTr1tc-cSYwR&t=9072)
+  - [Slides](https://slides.com/lennartjern/metal-kubernetes-native-bare-metal-host-management)
 - 19.01.2023 CNCF Helsinki - [Day 2 operations in Metal3](https://www.youtube.com/live/MwCb4Zujsao?si=KaH-ET9XLgPrGWxL&t=867)
 - 28.11.2023 CNCF Turku - [Cluster API scalability - Introducing the In-memory provider](https://www.youtube.com/live/L5nNT9b8oko?si=1Pv1SJ7qwF28yzmJ&t=4611)
+  - [Slides](https://github.com/lentzi90/playground/blob/e4c32c5c1369bdb6a10f162c5e0257c5585b8439/slides/Turku%20meetup%20-%2028.11.2023.pdf)
 
 ## Repositories and gists 📚
 
