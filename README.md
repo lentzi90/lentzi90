@@ -17,12 +17,10 @@ Here are some ideas to get you started:
 
 ## Talks 💬
 
-CNCF Turku meetup:
-- 12.12.2019 [RBAC, NetworkPolicies and PodSecurityPolicies](https://www.youtube.com/live/VoQU2uvHY8w?si=8lpH3IfgCrHprSdV&t=7510)
-
-CNCF Helsinki meetup:
-- 10.05.2022 [What's new in Metal3?](https://www.youtube.com/live/LTzIudvLs9A?si=NR3QwTr1tc-cSYwR&t=9072)
-- 19.01.2023 [Day 2 operations in Metal3](https://www.youtube.com/live/MwCb4Zujsao?si=KaH-ET9XLgPrGWxL&t=867)
+- 12.12.2019 CNCF Turku - [RBAC, NetworkPolicies and PodSecurityPolicies](https://www.youtube.com/live/VoQU2uvHY8w?si=8lpH3IfgCrHprSdV&t=7510)
+- 10.05.2022 CNCF Helsinki - [What's new in Metal3?](https://www.youtube.com/live/LTzIudvLs9A?si=NR3QwTr1tc-cSYwR&t=9072)
+- 19.01.2023 CNCF Helsinki - [Day 2 operations in Metal3](https://www.youtube.com/live/MwCb4Zujsao?si=KaH-ET9XLgPrGWxL&t=867)
+- 28.11.2023 CNCF Turku - [Cluster API scalability - Introducing the In-memory provider](https://www.youtube.com/live/L5nNT9b8oko?si=1Pv1SJ7qwF28yzmJ&t=4611)
 
 ## Repositories and gists 📚
 
