@@ -25,9 +25,11 @@ Here are some ideas to get you started:
 - 19.01.2023 CNCF Helsinki - [Day 2 operations in Metal3](https://www.youtube.com/live/MwCb4Zujsao?si=KaH-ET9XLgPrGWxL&t=867)
 - 28.11.2023 CNCF Turku - [Cluster API scalability - Introducing the In-memory provider](https://www.youtube.com/live/L5nNT9b8oko?si=1Pv1SJ7qwF28yzmJ&t=4611)
   - [Slides](https://github.com/lentzi90/playground/blob/e4c32c5c1369bdb6a10f162c5e0257c5585b8439/slides/Turku%20meetup%20-%2028.11.2023.pdf)
+- 06.05.2025 KCD Helsinki [We go together - Working in Open Source projects](https://www.youtube.com/watch?v=A6hP4U-wFj8&list=PL09s8ZalKQe8in2Ypw7BHfTidIRpxN18w&index=32)
 
 ## Repositories and gists 📚
 
+- Playground with random things I'm working on, mostly related to CAPI: [playground](https://github.com/lentzi90/playground)
 - Learn Kubernetes: [kubernetes-training-material](https://github.com/lentzi90/kubernetes-training-material)
 - Learn Operating Kubernetes and applications: [kube-ops](https://github.com/lentzi90/kube-ops)
 - Self host things on Kubernetes at home: [personal-cloud](https://github.com/lentzi90/personal-cloud)
