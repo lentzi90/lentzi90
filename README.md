@@ -1,4 +1,4 @@
-![Lentzi90's GitHub stats](https://github-readme-stats.vercel.app/api?username=lentzi90&theme=solarized-dark&show_icons=true)
+[CNCF contributor card](https://contribcard.cncf.io/lentzi90)
 
 <!--
 **lentzi90/lentzi90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
