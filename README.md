@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 - 06.05.2025 KCD Helsinki [We go together - Working in Open Source projects](https://www.youtube.com/watch?v=A6hP4U-wFj8&list=PL09s8ZalKQe8in2Ypw7BHfTidIRpxN18w&index=32)
 - 10.12.2025 CNCF Helsinki - [Sharding baremetal Kubernetes clusters with hosted control planes and Kubevirt](https://www.youtube.com/live/bGpPWa0_Lac?si=zosnHrOWPq41y9rU&t=4682)
   - [Slides](https://github.com/lentzi90/playground/blob/17f935c31b4212fe53745c40986c793fde754ba6/slides/Helsinki%20meetup%20-%2010.12.2025.pdf) 
+- 20.05.2026 KCD Helsinki - Understanding the Real Attack Surface of Agentic AI
 
 ## Repositories and gists 📚
 
