@@ -25,10 +25,13 @@ Here are some ideas to get you started:
 - 19.01.2023 CNCF Helsinki - [Day 2 operations in Metal3](https://www.youtube.com/live/MwCb4Zujsao?si=KaH-ET9XLgPrGWxL&t=867)
 - 28.11.2023 CNCF Turku - [Cluster API scalability - Introducing the In-memory provider](https://www.youtube.com/live/L5nNT9b8oko?si=1Pv1SJ7qwF28yzmJ&t=4611)
   - [Slides](https://github.com/lentzi90/playground/blob/e4c32c5c1369bdb6a10f162c5e0257c5585b8439/slides/Turku%20meetup%20-%2028.11.2023.pdf)
-- 06.05.2025 KCD Helsinki [We go together - Working in Open Source projects](https://www.youtube.com/watch?v=A6hP4U-wFj8&list=PL09s8ZalKQe8in2Ypw7BHfTidIRpxN18w&index=32)
+- 06.05.2025 KCD Helsinki - [We go together - Working in Open Source projects](https://www.youtube.com/watch?v=A6hP4U-wFj8&list=PL09s8ZalKQe8in2Ypw7BHfTidIRpxN18w&index=32)
 - 10.12.2025 CNCF Helsinki - [Sharding baremetal Kubernetes clusters with hosted control planes and Kubevirt](https://www.youtube.com/live/bGpPWa0_Lac?si=zosnHrOWPq41y9rU&t=4682)
   - [Slides](https://github.com/lentzi90/playground/blob/17f935c31b4212fe53745c40986c793fde754ba6/slides/Helsinki%20meetup%20-%2010.12.2025.pdf) 
 - 20.05.2026 KCD Helsinki - Understanding the Real Attack Surface of Agentic AI
+- 09.10.2026 OSS EU - 
+Lightning Talk: Beyond Immutable Machines: Introducing Cluster API In-Place Updates
+  - [Schedule](https://osselceu2026.sched.com/event/2RafX/lightning-talk-beyond-immutable-machines-introducing-cluster-api-in-place-updates-lennart-jern-ericsson-software-technology?iframe=yes&w=100%&sidebar=yes&bg=no)
 
 ## Repositories and gists 📚
 
