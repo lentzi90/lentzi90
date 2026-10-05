@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 - 09.10.2026 OSS EU - 
 Lightning Talk: Beyond Immutable Machines: Introducing Cluster API In-Place Updates
   - [Schedule](https://osselceu2026.sched.com/event/2RafX/lightning-talk-beyond-immutable-machines-introducing-cluster-api-in-place-updates-lennart-jern-ericsson-software-technology?iframe=yes&w=100%&sidebar=yes&bg=no)
+  - [Slides](https://github.com/lentzi90/playground/blob/a5c2b8e42be632d9a4be308d086acf91302e4ebc/slides/Open%20Source%20Summit%20-%209.10.2026.pdf)
 
 ## Repositories and gists 📚
 
